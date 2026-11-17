@@ -10,5 +10,9 @@ public class exercici02 {
 
         // 2. Creem el Map que guardarà cada caràcter i la seva freqüència
         Map<Character, Integer> frequencies = new LinkedHashMap<>();
+
+        // 3. Recorrem la cadena caràcter per caràcter
+        for (int i = 0; i < cadena.length(); i++) {
+            char caracter = cadena.charAt(i);
     }
 }
