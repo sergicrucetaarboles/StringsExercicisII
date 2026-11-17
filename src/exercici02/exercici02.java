@@ -32,6 +32,9 @@ public class exercici02 {
                         .append(entrada.getValue());
 
                 primer = false;
+
+                resultat.append("}");
+                System.out.println(resultat);
             }
         }
     }
