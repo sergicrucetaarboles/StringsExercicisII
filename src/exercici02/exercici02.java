@@ -17,6 +17,10 @@ public class exercici02 {
 
             // 4. Si el caràcter ja hi és, sumem 1; si no, comencem a 0 i sumem 1
             frequencies.put(caracter, frequencies.getOrDefault(caracter, 0) + 1);
+
+            // 5. Mostrem el resultat amb el format de l'enunciat
+            StringBuilder resultat = new StringBuilder("{");
+            boolean primer = true;
         }
     }
 }
