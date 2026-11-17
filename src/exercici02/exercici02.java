@@ -14,5 +14,9 @@ public class exercici02 {
         // 3. Recorrem la cadena caràcter per caràcter
         for (int i = 0; i < cadena.length(); i++) {
             char caracter = cadena.charAt(i);
+
+            // 4. Si el caràcter ja hi és, sumem 1; si no, comencem a 0 i sumem 1
+            frequencies.put(caracter, frequencies.getOrDefault(caracter, 0) + 1);
+        }
     }
 }
