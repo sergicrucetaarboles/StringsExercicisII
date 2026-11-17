@@ -4,6 +4,6 @@ public class exercici01 {
         int longitud = cadena.length();
 
         System.out.println("La cadena és: " + cadena);
-
+        System.out.println("La longitud de la cadena és: " + longitud);
     }
 }
