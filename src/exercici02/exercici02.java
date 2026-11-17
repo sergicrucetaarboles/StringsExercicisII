@@ -21,6 +21,18 @@ public class exercici02 {
             // 5. Mostrem el resultat amb el format de l'enunciat
             StringBuilder resultat = new StringBuilder("{");
             boolean primer = true;
+            for (Map.Entry<Character, Integer> entrada : frequencies.entrySet()) {
+                if (!primer) {
+                    resultat.append(", ");
+                }
+
+                resultat.append("'")
+                        .append(entrada.getKey())
+                        .append("': ")
+                        .append(entrada.getValue());
+
+                primer = false;
+            }
         }
     }
 }
