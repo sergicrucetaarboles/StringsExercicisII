@@ -19,5 +19,8 @@ public class exercici05 {
         String[] paraules = {"sol", "ordinador", "web", "java", "programa"};
         String resultat = paraulaMesLlarga(paraules);
         int longitud = resultat.length();
+
+        System.out.println("La paraula més llarga és: " + resultat);
+        System.out.println("La seva longitud és: " + longitud);
     }
 }
