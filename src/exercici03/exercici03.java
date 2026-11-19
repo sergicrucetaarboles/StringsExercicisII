@@ -14,5 +14,8 @@ public class exercici03 {
 
         System.out.print("Escriu una cadena de text: ");
         String cadena = teclat.nextLine();
+
+        System.out.println("Resultat: '" + primersIDarrers(cadena) + "'");
+
     }
 }
