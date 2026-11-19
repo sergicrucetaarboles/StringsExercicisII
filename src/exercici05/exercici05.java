@@ -5,5 +5,10 @@ public class exercici05 {
             return "";
         }
         String mesLlarga = paraules[0];
+
+        for (String paraula : paraules) {
+
+        }
+        return mesLlarga;
     }
 }
