@@ -15,6 +15,9 @@ public class exercici05 {
         return mesLlarga;
     }
     public static void main(String[] args) {
+
         String[] paraules = {"sol", "ordinador", "web", "java", "programa"};
+        String resultat = paraulaMesLlarga(paraules);
+
     }
 }
