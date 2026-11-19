@@ -11,5 +11,8 @@ public class exercici03 {
     }
     public static void main(String[] args) {
         Scanner teclat = new Scanner(System.in);
+
+        System.out.print("Escriu una cadena de text: ");
+        String cadena = teclat.nextLine();
     }
 }
