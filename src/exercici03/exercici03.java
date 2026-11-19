@@ -17,5 +17,6 @@ public class exercici03 {
 
         System.out.println("Resultat: '" + primersIDarrers(cadena) + "'");
 
+        teclat.close();
     }
 }
