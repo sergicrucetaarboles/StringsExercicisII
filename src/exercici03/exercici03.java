@@ -10,6 +10,6 @@ public class exercici03 {
                 cadena.substring(cadena.length() - 2);
     }
     public static void main(String[] args) {
-
+        Scanner teclat = new Scanner(System.in);
     }
 }
