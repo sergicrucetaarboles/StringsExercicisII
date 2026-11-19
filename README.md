@@ -15,11 +15,11 @@
 2. Requisits
 3. Estructura de carpetes
 4. Com compilar i executar
-5. Exercici 1: Longitud d'una cadena
-6. Exercici 2: Freqüència de caràcters
-7. Exercici 3: Primers 2 i darrers 2 caràcters
+5. Exercici 01: Longitud d'una cadena
+6. Exercici 02: Freqüència de caràcters
+7. Exercici 03: Primers 2 i darrers 2 caràcters
 8. Exercici 4: Afegir "ing" o "ly"
-9. Exercici 5: Paraula més llarga d'un vector
+9. Exercici 05: Paraula més llarga d'un vector
 10. Resum dels conceptes treballats
 11. Bones pràctiques aplicades
 ---
