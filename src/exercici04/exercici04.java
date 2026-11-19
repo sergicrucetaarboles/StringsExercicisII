@@ -13,5 +13,8 @@ public class exercici04 {
     }
     public static void main(String[] args) {
         System.out.println("abc -> \"" + afegirIng("abc") + "\"");
+        System.out.println("string -> \"" + afegirIng("string") + "\"");
+        System.out.println("ab -> \"" + afegirIng("ab") + "\"");
+
     }
 }
