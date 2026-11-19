@@ -7,6 +7,9 @@ public class exercici05 {
         String mesLlarga = paraules[0];
 
         for (String paraula : paraules) {
+            if (paraula.length() > mesLlarga.length()) {
+                mesLlarga = paraula;
+            }
 
         }
         return mesLlarga;
