@@ -8,5 +8,7 @@ public class exercici04 {
         if (cadena.endsWith("ing")) {
             return cadena + "ly";
         }
+
+        return cadena + "ing";
     }
 }
