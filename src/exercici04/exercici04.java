@@ -4,6 +4,9 @@ public class exercici04 {
         if (cadena.length() < 3) {
             return cadena;
         }
-   
+
+        if (cadena.endsWith("ing")) {
+            return cadena + "ly";
+        }
     }
 }
