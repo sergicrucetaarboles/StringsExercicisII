@@ -6,6 +6,7 @@ public class exercici03 {
         if (cadena.length() < 2) {
             return "";
         }
-
+        return cadena.substring(0, 2) +
+                cadena.substring(cadena.length() - 2);
     }
 }
