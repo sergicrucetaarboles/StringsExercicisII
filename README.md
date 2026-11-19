@@ -1,5 +1,5 @@
 # Strings Exercicis II: Cadenes de Text i Vectors
- ---
+ 
 
 **Centre:** La Salle Gràcia (Barcelona)
 **Cicle:** Desenvolupament d'Aplicacions Web (DAW-1), 
