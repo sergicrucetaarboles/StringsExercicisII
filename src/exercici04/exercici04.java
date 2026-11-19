@@ -12,6 +12,6 @@ public class exercici04 {
         return cadena + "ing";
     }
     public static void main(String[] args) {
-
+        System.out.println("abc -> \"" + afegirIng("abc") + "\"");
     }
 }
