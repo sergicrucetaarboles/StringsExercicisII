@@ -4,5 +4,6 @@ public class exercici05 {
         if (paraules.length == 0) {
             return "";
         }
+        String mesLlarga = paraules[0];
     }
 }
