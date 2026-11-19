@@ -9,4 +9,7 @@ public class exercici03 {
         return cadena.substring(0, 2) +
                 cadena.substring(cadena.length() - 2);
     }
+    public static void main(String[] args) {
+
+    }
 }
